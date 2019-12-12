@@ -1,6 +1,5 @@
-# scottish-gaelic-resources
+# Scottish Gaelic Resources
 Links to various Gàidhlig resources
-
 
 ## Online courses
 
