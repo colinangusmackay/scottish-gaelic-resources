@@ -1,0 +1,52 @@
+<svg width="820" height="560" 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden">
+    <defs>
+        <clipPath id="clip0">
+            <path d="M0 0 1280 0 1280 720 0 720Z" fill-rule="evenodd" clip-rule="evenodd"/>
+        </clipPath>
+        <linearGradient x1="11.5001" y1="360.5" x2="172.5" y2="360.5" gradientUnits="userSpaceOnUse" spreadMethod="reflect" id="fill1">
+            <stop offset="0" stop-color="#DAE3F3"/>
+            <stop offset="1" stop-color="#FFC9C9"/>
+        </linearGradient>
+    </defs>
+    <g clip-path="url(#clip0)">
+        <path d="M461.5 335.167C461.5 328.171 467.171 322.5 474.167 322.5L609.833 322.5C616.829 322.5 622.5 328.171 622.5 335.167L622.5 385.833C622.5 392.829 616.829 398.5 609.833 398.5L474.167 398.5C467.171 398.5 461.5 392.829 461.5 385.833Z" stroke="#2F528F" stroke-miterlimit="8" fill="#FFF2CC" fill-rule="evenodd"/>
+        <text font-family="Fira Sans,Fira Sans_MSFontService,sans-serif" font-weight="400" font-size="27" transform="translate(514.066 353)">thu/<tspan x="1.58667" y="32">sibh</tspan>
+        </text>
+        <path d="M282.5 335.167C282.5 328.171 288.171 322.5 295.167 322.5L430.833 322.5C437.829 322.5 443.5 328.171 443.5 335.167L443.5 385.833C443.5 392.829 437.829 398.5 430.833 398.5L295.167 398.5C288.171 398.5 282.5 392.829 282.5 385.833Z" stroke="#2F528F" stroke-miterlimit="8" fill="#DAE3F3" fill-rule="evenodd"/>
+        <text font-family="Fira Sans,Fira Sans_MSFontService,sans-serif" font-weight="400" font-size="27" transform="translate(313.317 369)">bràthair</text>
+        <path d="M640.5 335.167C640.5 328.171 646.171 322.5 653.167 322.5L788.833 322.5C795.829 322.5 801.5 328.171 801.5 335.167L801.5 385.833C801.5 392.829 795.829 398.5 788.833 398.5L653.167 398.5C646.171 398.5 640.5 392.829 640.5 385.833Z" stroke="#2F528F" stroke-miterlimit="8" fill="#FFCDCD" fill-rule="evenodd"/>
+        <text font-family="Fira Sans,Fira Sans_MSFontService,sans-serif" font-weight="400" font-size="27" transform="translate(675.815 369)">piuthar</text>
+        <path d="M370.5 182.167C370.5 175.171 376.171 169.5 383.167 169.5L518.833 169.5C525.829 169.5 531.5 175.171 531.5 182.167L531.5 232.833C531.5 239.829 525.829 245.5 518.833 245.5L383.167 245.5C376.171 245.5 370.5 239.829 370.5 232.833Z" stroke="#2F528F" stroke-miterlimit="8" fill="#FFCDCD" fill-rule="evenodd"/>
+        <text font-family="Fira Sans,Fira Sans_MSFontService,sans-serif" font-weight="400" font-size="27" transform="translate(403.313 216)">màthair</text>
+        <path d="M550.5 182.167C550.5 175.171 556.171 169.5 563.167 169.5L698.833 169.5C705.829 169.5 711.5 175.171 711.5 182.167L711.5 232.833C711.5 239.829 705.829 245.5 698.833 245.5L563.167 245.5C556.171 245.5 550.5 239.829 550.5 232.833Z" stroke="#2F528F" stroke-miterlimit="8" fill="#DAE3F3" fill-rule="evenodd"/>
+        <text font-family="Fira Sans,Fira Sans_MSFontService,sans-serif" font-weight="400" font-size="27" transform="translate(594.42 216)">athair</text>
+        <path d="M531.5 207.5 541.772 207.5 541.772 322.043" stroke="#4472C4" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M541.5 322.043 541.5 207.5 550.289 207.5" stroke="#4472C4" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M0 0-24 0-24 357.832 0.000104987 357.832" stroke="#4472C4" stroke-miterlimit="8" fill="none" fill-rule="evenodd" transform="matrix(-4.37114e-08 1 1 4.37114e-08 362.5 322.5)"/>
+        <path d="M272.5 29.3336C272.5 22.2458 278.246 16.5001 285.334 16.5001L419.666 16.5001C426.754 16.5001 432.5 22.2458 432.5 29.3336L432.5 80.6665C432.5 87.7543 426.754 93.5001 419.666 93.5001L285.334 93.5001C278.246 93.5001 272.5 87.7543 272.5 80.6665Z" stroke="#2F528F" stroke-miterlimit="8" fill="#FFCDCD" fill-rule="evenodd"/>
+        <text font-family="Fira Sans,Fira Sans_MSFontService,sans-serif" font-weight="400" font-size="27" transform="translate(288.103 64)">seanmhair</text>
+        <path d="M467.5 29.3336C467.5 22.2458 473.246 16.5001 480.334 16.5001L615.667 16.5001C622.754 16.5001 628.5 22.2458 628.5 29.3336L628.5 80.6665C628.5 87.7543 622.754 93.5001 615.667 93.5001L480.334 93.5001C473.246 93.5001 467.5 87.7543 467.5 80.6665Z" stroke="#2F528F" stroke-miterlimit="8" fill="#DAE3F3" fill-rule="evenodd"/>
+        <text font-family="Fira Sans,Fira Sans_MSFontService,sans-serif" font-weight="400" font-size="27" transform="translate(503.053 64)">seanair</text>
+        <path d="M0 0 114.543 0 114.543 18.3941" stroke="#4472C4" stroke-miterlimit="8" fill="none" fill-rule="evenodd" transform="matrix(-4.37114e-08 -1 -1 4.37114e-08 450.894 170.043)"/>
+        <path d="M451.5 170.043 451.5 55.5001 468.176 55.5001" stroke="#4472C4" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M11.5001 183.167C11.5001 176.171 17.1712 170.5 24.167 170.5L159.833 170.5C166.829 170.5 172.5 176.171 172.5 183.167L172.5 233.833C172.5 240.829 166.829 246.5 159.833 246.5L24.167 246.5C17.1712 246.5 11.5001 240.829 11.5001 233.833Z" stroke="#2F528F" stroke-miterlimit="8" fill="#FFCDCD" fill-rule="evenodd"/>
+        <text font-family="Fira Sans,Fira Sans_MSFontService,sans-serif" font-weight="400" font-size="27" transform="translate(44.6814 217)">antaidh</text>
+        <path d="M191.5 182.167C191.5 175.171 197.171 169.5 204.167 169.5L338.833 169.5C345.829 169.5 351.5 175.171 351.5 182.167L351.5 232.833C351.5 239.829 345.829 245.5 338.833 245.5L204.167 245.5C197.171 245.5 191.5 239.829 191.5 232.833Z" stroke="#2F528F" stroke-miterlimit="8" fill="#DAE3F3" fill-rule="evenodd"/>
+        <text font-family="Fira Sans,Fira Sans_MSFontService,sans-serif" font-weight="400" font-size="27" transform="translate(234.289 216)">uncail</text>
+        <path d="M272.5 169.833 272.5 145.833 452.191 145.833 452.191 168.5" stroke="#4472C4" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M91.5 170.167 91.5 145.5 450.881 145.5 450.881 169.5" stroke="#4472C4" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M11.5001 335.167C11.5001 328.171 17.1712 322.5 24.167 322.5L159.833 322.5C166.829 322.5 172.5 328.171 172.5 335.167L172.5 385.833C172.5 392.829 166.829 398.5 159.833 398.5L24.167 398.5C17.1712 398.5 11.5001 392.829 11.5001 385.833Z" stroke="#2F528F" stroke-miterlimit="8" fill="url(#fill1)" fill-rule="evenodd"/>
+        <text font-family="Fira Sans,Fira Sans_MSFontService,sans-serif" font-weight="400" font-size="27" transform="translate(42.2647 369)">co<tspan x="28.1667" y="0">-</tspan>
+            <tspan x="38.8333" y="0">ogha</tspan>
+        </text>
+        <path d="M0 0 0.000104987 75.6952" stroke="#4472C4" stroke-miterlimit="8" fill="none" fill-rule="evenodd" transform="matrix(1 0 0 -1 91.5001 322.195)"/>
+        <path d="M370.5 487.167C370.5 480.171 376.171 474.5 383.167 474.5L518.833 474.5C525.829 474.5 531.5 480.171 531.5 487.167L531.5 537.833C531.5 544.829 525.829 550.5 518.833 550.5L383.167 550.5C376.171 550.5 370.5 544.829 370.5 537.833Z" stroke="#2F528F" stroke-miterlimit="8" fill="#FFCDCD" fill-rule="evenodd"/>
+        <text font-family="Fira Sans,Fira Sans_MSFontService,sans-serif" font-weight="400" font-size="27" transform="translate(402.146 521)">nighean</text>
+        <path d="M550.5 487.167C550.5 480.171 556.171 474.5 563.167 474.5L698.833 474.5C705.829 474.5 711.5 480.171 711.5 487.167L711.5 537.833C711.5 544.829 705.829 550.5 698.833 550.5L563.167 550.5C556.171 550.5 550.5 544.829 550.5 537.833Z" stroke="#2F528F" stroke-miterlimit="8" fill="#DAE3F3" fill-rule="evenodd"/>
+        <text font-family="Fira Sans,Fira Sans_MSFontService,sans-serif" font-weight="400" font-size="27" transform="translate(605.503 521)">mac</text>
+        <path d="M451.5 474.195 451.5 436.348 542.087 436.348 542.087 398.5" stroke="#4472C4" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <path d="M0 0 37.8475 0 37.8475 89.104 75.695 89.104" stroke="#4472C4" stroke-miterlimit="8" fill="none" fill-rule="evenodd" transform="matrix(-4.37114e-08 -1 -1 4.37114e-08 630.604 474.195)"/>
+    </g>
+</svg>

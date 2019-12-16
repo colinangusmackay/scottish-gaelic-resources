@@ -1,5 +1,9 @@
 # Scottish Gaelic Resources
-Links to various Gàidhlig resources
+Links to various Gàidhlig resources.
+
+## Local Vocabulary
+
+* [Family](vocabulary/family.md)
 
 ## Online courses
 
