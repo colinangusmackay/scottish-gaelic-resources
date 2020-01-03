@@ -1,7 +1,9 @@
 # Scottish Gaelic Resources
 Links to various Gàidhlig resources.
 
-## Local Vocabulary
+## On this site
+
+### Vocabulary
 
 * [Family](vocabulary/family.md)
 
@@ -21,4 +23,10 @@ Links to various Gàidhlig resources.
 
 ### Language Learning
 
+* [Gaelic with Jason](https://www.youtube.com/channel/UCVX7RajLZmm8i7LEuli05tw)
 * [Speaking Our Language](https://www.youtube.com/watch?v=6UeYlpmewx8&list=PLX1DGbPK9r2HAKpdfY70bT4wGzxPvQ3v_)
+
+
+---
+
+[Report issues](https://github.com/colinangusmackay/scottish-gaelic-resources/issues)
