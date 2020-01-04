@@ -1,7 +1,7 @@
 | English             | Gàidhlig  | Example  |   |
 |---------------------|-----------|----------|---|
-| Big                 | Mòr       | iasg mòr | <img src="../images/animals/fish.svg" alt="Big fish / Iasg mòr" width="100"/> |
-| Small               | Beag      | iasg beag | <img src="../images/animals/fish.svg" alt="Little fish / Iasg beag" width="50"/> |
+| Big                 | Mòr       | iasg mòr | <img src="../images/animals/fish.svg" alt="Big fish / Iasg mòr" width="100" height="50"/> |
+| Small               | Beag      | iasg beag | <img src="../images/animals/fish.svg" alt="Little fish / Iasg beag" width="50" height="25"/> |
 
 
 ---

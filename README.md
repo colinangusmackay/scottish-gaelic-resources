@@ -5,6 +5,7 @@ Links to various Gàidhlig resources.
 
 ### Vocabulary
 
+* [Adjectives](vocabulary/adjectives.md)
 * [Family](vocabulary/family.md)
 
 ## Online courses
