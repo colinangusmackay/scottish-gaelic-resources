@@ -6,6 +6,7 @@ Links to various Gàidhlig resources.
 ### Vocabulary
 
 * [Adjectives](vocabulary/adjectives.md)
+* [Countries](vocabulary/countries.md)
 * [Family](vocabulary/family.md)
 
 ## Online courses
@@ -26,6 +27,10 @@ Links to various Gàidhlig resources.
 
 * [Gaelic with Jason](https://www.youtube.com/channel/UCVX7RajLZmm8i7LEuli05tw)
 * [Speaking Our Language](https://www.youtube.com/watch?v=6UeYlpmewx8&list=PLX1DGbPK9r2HAKpdfY70bT4wGzxPvQ3v_)
+
+## Local groups and associations
+
+* [Scottish Gaelic Association of Australia](https://www.ozgaelic.org/) : **Comunn Gàidhlig Astràilia**
 
 
 ---
