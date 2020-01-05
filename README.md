@@ -13,6 +13,9 @@ Links to various Gàidhlig resources.
 
 * [Duolingo](https://www.duolingo.com/course/gd/en/Learn-Scottish%20Gaelic)
 * [Learn Gaelic](https://learngaelic.scot/)
+* Open University:
+  * [Gaelic in Modern Scotland](https://www.open.edu/openlearn/languages/gaelic-modern-scotland/content-section-0?active-tab=description-tab)
+  * [Cànan nan Gàidheal](https://www.open.edu/openlearn/languages/more-languages/canan-nan-gaidheal/content-section-0?active-tab=description-tab)
 
 ## Social Media
 
