@@ -1,14 +1,6 @@
 # Scottish Gaelic Resources
 Links to various Gàidhlig resources.
 
-## On this site
-
-### Vocabulary
-
-* [Adjectives](vocabulary/adjectives.md)
-* [Countries](vocabulary/countries.md)
-* [Family](vocabulary/family.md)
-
 ## Online courses
 
 * [Duolingo](https://www.duolingo.com/course/gd/en/Learn-Scottish%20Gaelic)
@@ -35,7 +27,18 @@ Links to various Gàidhlig resources.
 
 * [Scottish Gaelic Association of Australia](https://www.ozgaelic.org/) : **Comunn Gàidhlig Astràilia**
 
+## Organisations
+
+* [Bòrd na Gàidhlig](https://www.gaidhlig.scot/)
+
+## On this site
+
+### Vocabulary
+
+* [Adjectives](vocabulary/adjectives.md)
+* [Countries](vocabulary/countries.md)
+* [Family](vocabulary/family.md)
 
 ---
 
-[Report issues](https://github.com/colinangusmackay/scottish-gaelic-resources/issues)
+[Report issues or suggest new resources](https://github.com/colinangusmackay/scottish-gaelic-resources/issues)
