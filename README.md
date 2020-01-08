@@ -31,6 +31,7 @@ Links to various Gàidhlig resources.
 ### Language Learning
 
 * [Gaelic with Jason](https://www.youtube.com/channel/UCVX7RajLZmm8i7LEuli05tw)
+* [Gàidhlig Gu Leòr](https://www.youtube.com/channel/UC9QhuYhWNaOkzKXz8XSzAXQ)
 * [Speaking Our Language](https://www.youtube.com/watch?v=6UeYlpmewx8&list=PLX1DGbPK9r2HAKpdfY70bT4wGzxPvQ3v_)
 
 ### Misc
