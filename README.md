@@ -9,6 +9,10 @@ Links to various Gàidhlig resources.
   * [Gaelic in Modern Scotland](https://www.open.edu/openlearn/languages/gaelic-modern-scotland/content-section-0?active-tab=description-tab)
   * [Cànan nan Gàidheal](https://www.open.edu/openlearn/languages/more-languages/canan-nan-gaidheal/content-section-0?active-tab=description-tab)
 
+## Reference
+
+* [Akerbeltz](http://akerbeltz.org/index.php?title=Beagan_gr%C3%A0mair)
+
 ## Social Media
 
 ### Facebook
@@ -36,6 +40,7 @@ Links to various Gàidhlig resources.
 ## Local groups and associations
 
 * [Scottish Gaelic Association of Australia](https://www.ozgaelic.org/) : **Comunn Gàidhlig Astràilia**
+* [The American Scottish Gaelic Society](http://www.acgamerica.org/) : **An Comunn Gàidhealach Ameireaganach**
 
 ## Organisations
 
