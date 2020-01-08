@@ -15,6 +15,7 @@ Links to various Gàidhlig resources.
 
 * [Gaelic Grammar Geeks](https://www.facebook.com/groups/gaelicgrammargeeks/)
 * [Learn Gaelic](https://www.facebook.com/LearnGaelic/)
+* [Let's Learn Scottish Gaelic](https://www.facebook.com/groups/759299037440696/about/)
 
 ## Videos
 
@@ -22,6 +23,10 @@ Links to various Gàidhlig resources.
 
 * [Gaelic with Jason](https://www.youtube.com/channel/UCVX7RajLZmm8i7LEuli05tw)
 * [Speaking Our Language](https://www.youtube.com/watch?v=6UeYlpmewx8&list=PLX1DGbPK9r2HAKpdfY70bT4wGzxPvQ3v_)
+
+### Misc
+
+* [In defence of Scottish Gaelic](https://www.youtube.com/watch?v=usQ0CHFCxBc&feature=youtu.be&t=0)
 
 ## Local groups and associations
 
