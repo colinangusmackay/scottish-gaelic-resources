@@ -45,7 +45,7 @@ Links to various Gàidhlig resources.
 ## Organisations
 
 * [Bòrd na Gàidhlig](https://www.gaidhlig.scot/)
-* [Digital Archive of Scottish Gaelic - English](https://dasg.ac.uk/?lang=en) | [Gàidhlig](https://dasg.ac.uk/?lang=gd)
+* [Digital Archive of Scottish Gaelic - English](https://dasg.ac.uk/?lang=en) / [Gàidhlig](https://dasg.ac.uk/?lang=gd)
 
 ## On this site
 
