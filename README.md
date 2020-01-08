@@ -13,9 +13,14 @@ Links to various Gàidhlig resources.
 
 ### Facebook
 
+* [Digital Archive of Scottish Gaelic](https://www.facebook.com/DasgGlaschu/)
 * [Gaelic Grammar Geeks](https://www.facebook.com/groups/gaelicgrammargeeks/)
 * [Learn Gaelic](https://www.facebook.com/LearnGaelic/)
 * [Let's Learn Scottish Gaelic](https://www.facebook.com/groups/759299037440696/about/)
+
+### Twitter
+
+* [Digital Archive of Scottish Gaelic](https://twitter.com/DASG_Glaschu)
 
 ## Videos
 
@@ -35,6 +40,7 @@ Links to various Gàidhlig resources.
 ## Organisations
 
 * [Bòrd na Gàidhlig](https://www.gaidhlig.scot/)
+* [Digital Archive of Scottish Gaelic - English](https://dasg.ac.uk/?lang=en) | [Gàidhlig](https://dasg.ac.uk/?lang=gd)
 
 ## On this site
 
