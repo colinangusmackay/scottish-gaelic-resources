@@ -1,4 +1,4 @@
-| English             | Gàidhlig  | Example   |   |
+| English             | Gàidhlig  | Example   | Translation  |
 |---------------------|-----------|-----------|---|
 | Big                 | Mòr       | iasg mòr  | <img src="../images/animals/fish.svg" alt="Big fish / Iasg mòr" style="width:100px; height:50px; margin:0; padding: 5px"/> |
 | Small               | Beag      | iasg beag | <img src="../images/animals/fish.svg" alt="Little fish / Iasg beag" style="width:50px; height:25px; margin:0; padding: 5px"/> |

@@ -53,6 +53,7 @@ Links to various Gàidhlig resources.
 ### Vocabulary
 
 * [Adjectives](vocabulary/adjectives.md)
+* [Conjunctions](vocabulary/conjunctions.md)
 * [Countries](vocabulary/countries.md)
 * [Family](vocabulary/family.md)
 
