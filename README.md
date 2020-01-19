@@ -9,6 +9,10 @@ Links to various Gàidhlig resources.
   * [Gaelic in Modern Scotland](https://www.open.edu/openlearn/languages/gaelic-modern-scotland/content-section-0?active-tab=description-tab)
   * [Cànan nan Gàidheal](https://www.open.edu/openlearn/languages/more-languages/canan-nan-gaidheal/content-section-0?active-tab=description-tab)
 
+## In person courses
+
+* [Gaelic Courses](https://www.gaeliccourses.com/) - North Uist, but some weekends on the mainland (Edinburgh, Glasgow, Dundee, Aberdeen, Fife).
+
 ## Reference
 
 * [Akerbeltz](http://akerbeltz.org/index.php?title=Beagan_gr%C3%A0mair)
